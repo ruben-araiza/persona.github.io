@@ -13,7 +13,7 @@ I am excited to contribute my skills, knowledge, and passion to new endeavors, c
 ## Experience
 
 ### Full-Stack Software Engineer
-Pinterest Inc., Mexico City, Mexico.
+Pinterest Inc., Mexico City, Mexico. (June 2022 - Present)
 
 * Responsible for designing and maintaining user-facing advertisement campaign creation tools at Pinterest. Leveraged React and Python to develop robust and intuitive interfaces.
 
@@ -22,7 +22,7 @@ Pinterest Inc., Mexico City, Mexico.
 * Designed and implemented API endpoints and back-end business logic using Python, Flask, and OpenApi. This involved developing scalable and efficient solutions to support the functionality of the advertisement campaign system.
 
 ### Technical Operations Specialist
-Sojern Inc., Remote
+Sojern Inc., Remote (August 2021 - March 2021)
 
 * Collaborated on the design, development, and documentation of internal web tools, utilizing React.js to create UI components and Django for back-end management.
 
@@ -33,7 +33,7 @@ Sojern Inc., Remote
 * Provided client service and troubleshooting for web trackers installed on the client's side, utilizing Google Tag Manager and Google BigQuery to ensure smooth functioning and accurate data collection.
 
 ### Python Back-End Developer
-Glynt.ai, Remote
+Glynt.ai, Remote. (July 2018 - September 2021)
 
 * Collaborated with a distributed team to design, implement, test, and document features on a Django application. The application provided OCR services based on Machine Learning, enabling automatic PDF-to-database capture of data.
 
@@ -46,7 +46,7 @@ Glynt.ai, Remote
 * Designed and implemented a system to generate visualization dashboards and reports for measuring performance. Utilized Grafana to provide insights and analytics on system performance.
 
 ### Technical Interviewer
-Encora, Mexico City/Hermosillo, Son.
+Encora, Mexico City. (July 2018 - September 2021)
 
 * Collaborated with the Talent Acquisition team at Encora, conducting technical interviews as an integral part of the recruitment process.
 
@@ -58,8 +58,8 @@ Encora, Mexico City/Hermosillo, Son.
 
 * Ensured a positive candidate experience by maintaining professionalism, clear communication, and prompt follow-ups.
 
-### Software Developer Intern
-Encora, Mexico City/Hermosillo, Son.
+### Software Developer Intern 
+Encora, Mexico City. (March 2018 - July 2018)
 
 * Actively participated in the development of internal tools at Encora, contributing to the improvement of company processes and workflows.
 
@@ -71,7 +71,7 @@ Encora, Mexico City/Hermosillo, Son.
 
 ## Education
 
-Bachelor's Degree in Physics
+### Bachelor's Degree in Physics
 Facultad de Ciencias, UNAM
 
 * Completed a comprehensive curriculum encompassing advanced mathematics and physics courses.
