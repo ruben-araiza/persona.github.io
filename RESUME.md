@@ -22,7 +22,7 @@ Pinterest Inc., Mexico City, Mexico. (June 2022 - Present)
 * Designed and implemented API endpoints and back-end business logic using Python, Flask, and OpenApi. This involved developing scalable and efficient solutions to support the functionality of the advertisement campaign system.
 
 ### Technical Operations Specialist
-Sojern Inc., Remote (August 2021 - March 2021)
+Sojern Inc., Remote. (August 2021 - March 2021)
 
 * Collaborated on the design, development, and documentation of internal web tools, utilizing React.js to create UI components and Django for back-end management.
 
