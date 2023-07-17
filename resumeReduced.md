@@ -45,8 +45,8 @@ Encora, Mexico City. (March 2018 - July 2018)
 ## Education
 
 ### Bachelor's Degree in Physics
-Facultad de Ciencias, UNAM
-
+Facultad de Ciencias, UNAM (Incomplete)
+- Completed 9 out of 10 semesters toward Bachelor’s degree in Physics. 
 - Comprehensive curriculum in advanced mathematics and physics.
 - Specialized in computational physics, focusing on practical applications and data analysis.
 - Developed strong problem-solving skills and proficiency in scientific programming.
