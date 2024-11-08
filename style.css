@@ -47,9 +47,9 @@ section {
 .profile-pic {
   width: 300px;
   height: 300px;
-  border-radius: 50%;
+  border-radius: 10%;
   object-fit: cover;
-  margin-bottom: 20px;
+  margin: 20px;
   float: left;
 }
 
