@@ -43,6 +43,15 @@ section {
   margin-bottom: 40px;
 }
 
+/* Profile picture styling */
+.profile-pic {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 20px;
+}
+
 /* About Section */
 #about {
   background-color: #e2e8f0;
