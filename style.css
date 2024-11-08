@@ -50,13 +50,26 @@ section {
   border-radius: 50%;
   object-fit: cover;
   margin-bottom: 20px;
+  float: left;
 }
 
-/* About Section */
+/* About Section */0
 #about {
   background-color: #e2e8f0;
   padding: 20px;
   border-radius: 8px;
+  overflow: auto; /* Ensures the section wraps around floated elements */
+}
+
+/* Ensure responsiveness on smaller screens */
+@media (max-width: 768px) {
+  .profile-pic {
+    width: 100px;
+    height: 100px;
+    float: none;
+    display: block;
+    margin: 0 auto 20px;
+  }
 }
 
 #about h2 {
